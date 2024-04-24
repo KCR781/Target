@@ -1,0 +1,24 @@
+3) Descubra a lógica e complete o próximo elemento:  
+
+
+a) 1, 3, 5, 7, ____  
+*9* lógica: os números incrementam de dois em dois, é uma sequência de números ímpares  
+
+b) 2, 4, 8, 16, 32, 64, ____  
+*128* lógica: os numeros são multiplicados por 2.
+
+c) 0, 1, 4, 9, 16, 25, 36, ____  
+*49*, lógica: a sequência dos termos segue o quadrado do índice.
+
+d) 4, 16, 36, 64, ____  
+*100*, lógica, a sequencia é composta pelo quadrado dos números pares
+
+e) 1, 1, 2, 3, 5, 8, ____  
+*13*, lógica, essa é a sequência de Fibonacci, onde o próximo termo é a sequencia dos dois anteriores.
+
+f) 2,10, 12, 16, 17, 18, 19, ____  
+*200*, lógica, a sequência é formada por números que começam com a letra D.
+
+
+
+4)Eu ligaria o primeiro interruptor por alguns minutos e depois o desligaria. Em seguida, ligaria o segundo interruptor e iria em todas as salas uma vez. Se encontrasse uma lâmpada acesa, isso significaria que o segundo interruptor está conectado a essa lâmpada. Nas outras duas salas, eu tocaria nas lâmpadas apagadas. A lâmpada que estivesse morna ou quente seria a penúltima que eu liguei. Com essa abordagem, na primeira ida em cada sala, eu teria certeza sobre todos os interruptores.
